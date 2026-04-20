@@ -7,5 +7,3 @@ def test_addition():
 def test_multiplication():
 	result = run(["4", "*", "5"])
 	asset "20" in result
-
-print("All tests passed!")
